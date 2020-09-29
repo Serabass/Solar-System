@@ -31,7 +31,7 @@
             };
 
             float4 _Color;
-				float _Intensity;
+            float _Intensity;
 
             v2f vert (appdata v)
             {
